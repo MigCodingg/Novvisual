@@ -1,6 +1,125 @@
 ﻿title: StartScript
 
 ---
-<<fade_character 2>>
-Jpeligroso: YEAH YEAH YEAH 
+Eye of Vision: It's cold here.
+Eye of Vision: You can't feel anything.
+Eye of Vision: Have you perished? No... A lost soul would not have been able to gather thought...
+Eye of Terror: Is this all there is? All we have in this life? 
+Eye of Terror: Are we stuck in limbo for the rest of our life?
+Eye of Terror: can't you see? this all there is to our existence.
+Eye of Rage: Lies, all of this.
+Eye of Rage: Us, what we are could never end up on a place like this.
+Eye of Ego: We are the ultimate being, we were not born to spend our lifes on Darkness.
+Eye of Vision: Let us focus then.
+Eye of Vision: Let's regain control.
+Eye of Terror: Let's 
+Eye of Rage: Let's
+Eye of Sound: Let's
+Eye of Choice: Let's
+Eye of Vision: Let's
+Eye of Lust: Let's
+Eye of Vision: View
+Eye of Terror: Dread
+Eye of Sound: Sound
+Eye of Terror: Fright
+Eye of Rage: Distress
+Eye of Choice: Responsability
+Eye of Lust: Desire
+Eye of Ego: Meaning
+Eye of Vision: Canvas
+Eye of terror: Death
+Eye of Ego: life
+Eye of Terror: Seclusion
+Eye of Choice: Learning
+Eye of Lust: Copulation
+Eyes: Us
+Eyes: You
+<<jump OutofPod>>
+===
+title: OutofPod
+---
+???: Hey, hello?
+Eye of Sound: A loud mechanical sound emanates from your current position.
+Eye of Vision: The light penetrates through. We appear to be seated on a Spherical machine.
+Eye of : Air and gas releases from the machine.
+???: Okay... here we go...
+Eye of Sound: Individual, I hear an Individual.
+Eye of Sound: Their tone androgynous. Their way of speaking, soft they want us to calm down.
+Eye of Choice: Do we speak a word, Vessel?
+Eye of Choice: Yes, I refer to you...
+
+    ->Speak up
+        <<jump Speakup>>
+    ->Say nothing
+        <<jump Saynothing>>
+
+===
+title: Speakup
+---
+Eye of Choice: A Choice has been taken.
+Eye of Sound: You let out a sound, a feeble moan that echoes through the small sphere.
+Eye of Terror: Please hear us, please save us. This mortal body can only live for so long
+Eye of Ego: Pathetic, Open this machine, rip it of it's components and regain composture.
+Eye of Terror: Do not hear, we are at the disadvantage, we are lost. Pray for survival.
+Eye of Vision: you can see the shadow of the Individual, aproaching slowly.
+
+
+===
+title: Saynothing
+---
+Eye of Choice: A Choice has been taken.
+Eye of Sound: Only the sounds of the machine opening fill the area you are in.
+Eye of Ego: Good, we do not fright in moments like this, let them aproach you. Let them know you are in control.
+Eye of Terror: Your arrogance will be our end. 
+Eye of Ego: Do not listen, soon, after we free ourselfs from this prision we will ascend.
+===
+
+title: OutofPod2
+---
+???: Okay, You are okay. Good... Good...
+Kala: My name is Kala. Can you hear me okay? How are you feeling?
+Eye of Sound: The dreaded Individual shares a piece of her Identity with us.
+Eye of Vision: You see this... Kala, They are standing in front of you with a cluster of papers on their hands.
+Eye of Lust: You can not control yourself, you analyze their body from head to bottom
+Eye of Lust: Their face is beautiful, the way their hair is tied on the back of their head, makes you curious.
+Eye of Lust: Their figure is hidden due to a large coat covering their body.
+Eye of Lust: Yet you can still see their silhouette. Thin, Curved, Well shaped.
+Eye of Lust: Their body leaves a lot to the imagination.  
+Eye of Vision: There is a circular symbol on it. A logo, remember it. It may be important.
+Eye of Vision: Observing the room you find yourself on an old house full of electronic components.
+Eye of vision: Nothing is oganized and you can't tell what's natural and what's an electronic component.
+Eye of vision: You can't even tell if it's day or night.
+Eye of Sound: The machine stops.
+Eye of Ego: The time for questions has come.
+Eye of Choice: Let's begin then.
+Eye of Choice: Vessel?
+
+->Where am I?
+        <<jump Whereami>>
+
+->Who am I?
+        <<jump whoami>>
+
+->Who are you?
+        <<jump whoareyou>>
+===
+title: Whereami
+---
+Kala: You are in my house.
+Kala: I will answer all your questions in due time.
+Kala: Please try to take it slow. This can be very overwelming sometimes.
+===
+title: whoami
+---
+Kala: Well, hard question too answer honestly...
+Kala: Please Don't be scared, I will help with all I can
+Kala: I will answer all your questions in due time.
+Kala: Please try to take it slow. This can be very overwelming sometimes.
+===
+title: whoareyou
+---
+Kala: I am Kala
+Kala: Please Don't be scared, I will help with all I can
+Kala: I will answer all your questions in due time.
+Kala: Please try to take it slow. This can be very overwelming sometimes.
 ===
