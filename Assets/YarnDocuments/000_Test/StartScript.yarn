@@ -2,6 +2,32 @@
 
 ---
 <<portrait "vision">>
+Thepromeus: I once knew somebody.
+Thepromeus: A girl, with a bright smile and determination that could bring the world down.
+Thepromeus: The girl, lost in her own mind, had big dreams for the future.
+Thepromeus: But unfortunately the future that holded her was a bleek one.
+Thepromeus: Towering gigants were build, the greenery of the ground that once was had been replaced with metal and cooper.
+Thepromeus: All that once was organic had been replaced by components.
+Thepromeus: This girl. Decided to opose the gigants.
+Thepromeus: She was a tall leader despite her age, she made the weak rally.
+Thepromeus: She promised "We will bring the fire to them, so they may feel what we feel everyday of our existence"
+Thepromeus: She didn't have a plan, well maybe one.
+Thepromeus: To keep dreaming, and to spread hope to all.
+Thepromeus: That they weren't alone, and that together they might take the world from the powers that be.
+Thepromeus: Perhaps then, that's why they got rid of her.
+Thepromeus: A shame, I liked the talkings off this little soul.
+Thepromeus: Maybe it's cause we didn't think that those who were born in the metal age had this passion for the world that once was.
+        ->You are talking about me, right?
+Thepromeus: Dreams, that word. too big for your own good.
+Thepromeus: Desires, Too unstable, too many variables for them.
+Thepromeus: That's why they decided to put you in a little caccon.
+Thepromeus: Like the rest of them.
+Thepromeus: I pitty you. 
+Thepromeus: At least you don't get to remember how we suffered.
+Thepromeus: Farewell young one.
+Thepromeus: Trust only your soul.
+Thepromeus: Godspeed.
+...: ...
 Eye of Vision: It's cold here.
 Eye of Vision: You can't feel anything.
 Eye of Sound: You can't hear anything.
@@ -40,11 +66,11 @@ Eyes: You
 ===
 title: OutofPod
 ---
-???: Hey, hello?
+Voice: Hey, hello?
 Eye of Sound: A loud mechanical sound emanates from your current position.
 Eye of Vision: The light penetrates through. We appear to be seated on a white Spherical machine.
 Eye of Vision: Air and gas releases from the machine.
-???: Okay... here we go...
+Voice: Okay... here we go...
 Eye of Sound: Individual, I hear an Individual.
 Eye of Sound: Their tone androgynous. Their way of speaking, soft they want us to calm down.
 Eye of Choice: Do we speak a word, Vessel?
@@ -111,7 +137,7 @@ title: Whereami
 Eye of Choice: A Choice has been taken.
 Kala: You are in my house.
 Kala: I will answer all your questions in due time.
-Kala: Please try to take it slow. This can be very overwelming sometimes.
+Kala: Please try to take it slow. This can be very overwhelming sometimes.
 ===
 title: whoami
 ---
@@ -122,7 +148,7 @@ Eye of Terror: Why the secrecy?
 Eye of Vision: You appear distressed
 Kala: Please Don't be scared, I will help with all I can
 Kala: I will answer all your questions in due time.
-Kala: Please try to take it slow. This can be very overwelming sometimes.
+Kala: Please try to take it slow. This can be very overwhelming sometimes.
 ===
 title: whoareyou
 ---
@@ -131,17 +157,18 @@ Kala: I am Kala, I am your proxy. I Will explain what that means in due time.
 Eye of Ego: What does proxy mean? Demand an answer, now.
 Kala: Please Don't be scared, I will help with all I can
 Kala: I will answer all your questions in due time.
-Kala: Please try to take it slow. This can be very overwelming sometimes.
+Kala: Please try to take it slow. This can be very overwhelming sometimes.
 ===
 title: OutofPod3
 ---
 Kala: As i've said. I am Kala. 
-Eye of Vision: they grab those papers again, like and puts them in front of them like they are reading a script.
+Eye of Vision: they grab a stack of papers which are resting on an old table nearby and puts them in front of them like they are reading a script.
 Kala: I've been selected by the state to be your Proxy on your R.A.M process
 Kala: R.A.M Stands for "Rehabilitation of Altered Minds".
 Kala: The goverment has deemed Your past self as inoperable, thus rendering you inelegible for regular living and assigning you to the R.A.M program which your past self agreed to contribute to...
 Eye of Vision: they seem not too worried about following the "Script" You see their eyes speeding through the page.
-Kala: Well,Your past emotions were too extreme and you were "Unstable" so the goverment decided to make you... Rest for a while.
+Kala: Well, Your past emotions were too extreme and you were "Unstable" so the goverment decided to make you... Rest for a while.
+Kala: This program is usually aimed at people who have had problems with psychosis, Extreme emotions, schizofrenia, Paranoia. Etc.
 Kala: To make sure you are okay during your resting and making sure your emotions calibrate correctly...
 Kala: They put you on this pod, which served as a resting point for you while I taked care of you.
 Kala: Most citizens have one, ergo most citizens are proxy's. 
@@ -176,7 +203,7 @@ Kala: Is it okay if I check your physique? Is it fine If I touch?
 Eye of Lust: You have no saying in this. YES. Agree. Now.
 Eye of Vision: You give a yes gesture with your head. 
 Kala: Okay...
-Eye of Vision: they get grab a pen from a table that's close to the pod.
+Eye of Vision: they get grab a paper from a table that's close to the pod.
 Kala: uhhh... Terminal from the pod says everything is sound...
 Kala: Blood preasure is fine...
 Eye of Vision: Their hand brushes your jaw, slowly going down your throat to check pulse.
@@ -190,12 +217,32 @@ Kala: Let me check something.
 Eye of Vision: they grab a flashlight that was sitting under some documents and point it at your eye.
 Kala: I'm no expert, but i would say you are okay.
 Kala: Still, the program recomends a series of test to ensure your cognitive abilities are working to it's fullest.
+Kala: Promise, It won't be anything too tasking.
 
 
 
+        ->I will do my best.
+                <<jump OutofPod4>>
 
-
-
-
+        ->What kinds of tests?
+                <<jump whattests>>
 
 ===
+
+title: whattests
+---
+Kala: They should be fairly simple.
+Kala: Look at images, see what kind of responses they make to your Amygdala.
+Kala: They are usually just procedure and not meant to be a test of any kind.
+Kala: Just to make sure you are okay to go. 
+Eye of Ego: Did I hear test? You will pass this with colors. 
+<<jump OutofPod4>>
+===
+
+title: OutofPod4
+---
+ Kala: Great let's get into this shall we?
+ Eye of Vision: They grab a few papers  
+===
+
+
