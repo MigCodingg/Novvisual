@@ -385,7 +385,7 @@ MonoBehaviour:
   lineProvider: {fileID: 0}
   saliencyStrategy: 0
   dialoguePresenters:
-  - {fileID: 423093583}
+  - {fileID: 0}
   verboseLogging: 0
   autoStart: 1
   startNode: StartScript
@@ -440,8 +440,14 @@ MonoBehaviour:
   contentContainer: {fileID: 344647426}
   lineEntryPrefab: {fileID: 4636971996545278904, guid: d78466b62f6ac724c8ffa367b5bd01eb, type: 3}
   scrollRect: {fileID: 931800162}
+  optionEntryPrefab: {fileID: 0}
+  defaultColor: {r: 1, g: 0.6470588, b: 0, a: 1}
+  selectedColor: {r: 1, g: 1, b: 1, a: 1}
+  useTypeWritter: 1
   charactersPerSecond: 250
   autoScrollToBottom: 1
+  portraitObject: {fileID: 0}
+  _charactersList: []
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0

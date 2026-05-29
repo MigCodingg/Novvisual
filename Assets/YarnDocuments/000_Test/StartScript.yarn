@@ -1,7 +1,6 @@
 ﻿title: StartScript
 
 ---
-<<portrait "vision">>
 Thepromeus: I once knew somebody.
 Thepromeus: A girl, with a bright smile and determination that could bring the world down.
 Thepromeus: The girl, lost in her own mind, had big dreams for the future.
@@ -17,7 +16,7 @@ Thepromeus: That they weren't alone, and that together they might take the world
 Thepromeus: Perhaps then, that's why they got rid of her.
 Thepromeus: A shame, I liked the talkings off this little soul.
 Thepromeus: Maybe it's cause we didn't think that those who were born in the metal age had this passion for the world that once was.
-        ->You are talking about me, right?
+        ->You: You are talking about me, right?
 Thepromeus: Dreams, that word. too big for your own good.
 Thepromeus: Desires, Too unstable, too many variables for them.
 Thepromeus: That's why they decided to put you in a little caccon.
@@ -27,7 +26,7 @@ Thepromeus: At least you don't get to remember how we suffered.
 Thepromeus: Farewell young one.
 Thepromeus: Trust only your soul.
 Thepromeus: Godspeed.
-...: ...
+You: ...
 Eye of Vision: It's cold here.
 Eye of Vision: You can't feel anything.
 Eye of Sound: You can't hear anything.
@@ -105,7 +104,7 @@ Eye of Vision: you can see the shadow of the Individual, aproaching slowly
 
 title: OutofPod2
 ---
-???: Okay, You are okay. Good... Good...
+Voice: Okay, You are okay. Good... Good...
 Kala: My name is Kala. Can you hear me okay? How are you feeling?
 Eye of Sound: The dreaded Individual shares a piece of her Identity with us.
 Eye of Vision: You see this... Kala, They are standing in front of you with a cluster of papers on their hands.
