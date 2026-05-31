@@ -27,38 +27,38 @@ Thepromeus: Farewell young one.
 Thepromeus: Trust only your soul.
 Thepromeus: Godspeed.
 You: ...
-Eye of Vision: It's cold here.
-Eye of Vision: You can't feel anything.
-Eye of Sound: You can't hear anything.
-Eye of Vision: Have you perished? No... A lost soul would not have been able to gather thought...
-Eye of Terror: Is this all there is? All we have in this life? 
-Eye of Terror: Are we stuck in limbo for the rest of our life?
-Eye of Terror: can't you see? this is all there is to our existence.
-Eye of Rage: Lies, all of this.
-Eye of Rage: Us, what we are, we could never end up on a place like this.
-Eye of Ego: We are the ultimate being, we were not born to spend our lifes in Darkness.
-Eye of Vision: Let us focus then.
-Eye of Vision: Let's regain control.
-Eye of Terror: Let's 
-Eye of Rage: Let's
-Eye of Sound: Let's
-Eye of Choice: Let's
-Eye of Vision: Let's
-Eye of Lust: Let's
-Eye of Vision: View
-Eye of Terror: Dread
-Eye of Sound: Sound
-Eye of Terror: Fright
-Eye of Rage: Distress
-Eye of Choice: Responsability
-Eye of Lust: Desire
-Eye of Ego: Meaning
-Eye of Vision: Canvas
-Eye of terror: Death
-Eye of Ego: life
-Eye of Terror: Seclusion
-Eye of Choice: Learning
-Eye of Lust: Copulation
+Eagle: It's cold here.
+Eagle: You can't feel anything.
+Echo: You can't hear anything.
+Eagle: Have you perished? No... A lost soul would not have been able to gather thought...
+Solitude: Is this all there is? All we have in this life? 
+Solitude: Are we stuck in limbo for the rest of our life?
+Solitude: can't you see? this is all there is to our existence.
+Vanity: Lies, all of this.
+Vanity: Us, what we are, we could never end up on a place like this.
+Vanity: We are the ultimate being, we were not born to spend our lifes in Darkness.
+Eagle: Let us focus then.
+Eagle: Let's regain control.
+Solitude: Let's 
+Vanity: Let's
+Echo: Let's
+Vanity: Let's
+Eagle: Let's
+Lust: Let's
+Eagle: View
+Solitude: Dread
+Echo: Sound
+Solitude: Fright
+Vanity: Distress
+Judgement: Responsability
+Lust: Desire
+Vanity: Meaning
+Eagle: Canvas
+Solitude: Death
+Vanity: life
+Solitude: Seclusion
+Vanity: Learning
+Lust: Copulation
 Eyes: Us
 Eyes: You
 <<jump OutofPod>>
@@ -66,14 +66,14 @@ Eyes: You
 title: OutofPod
 ---
 Voice: Hey, hello?
-Eye of Sound: A loud mechanical sound emanates from your current position.
-Eye of Vision: The light penetrates through. We appear to be seated on a white Spherical machine.
-Eye of Vision: Air and gas releases from the machine.
+Echo: A loud mechanical sound emanates from your current position.
+Eagle: The light penetrates through. We appear to be seated on a white Spherical machine.
+Eagle: Air and gas releases from the machine.
 Voice: Okay... here we go...
-Eye of Sound: Individual, I hear an Individual.
-Eye of Sound: Their tone androgynous. Their way of speaking, soft they want us to calm down.
-Eye of Choice: Do we speak a word, Vessel?
-Eye of Choice: Yes, I refer to you...
+Echo: Individual, I hear an Individual.
+Echo: Their tone androgynous. Their way of speaking, soft they want us to calm down.
+Judgement: Do we speak a word, Vessel?
+Judgement: Yes, I refer to you...
 
     ->Speak up
         <<jump Speakup>>
@@ -83,44 +83,44 @@ Eye of Choice: Yes, I refer to you...
 ===
 title: Speakup
 ---
-Eye of Choice: A Choice has been taken.
-Eye of Sound: You let out a sound, a feeble moan that echoes through the small sphere.
-Eye of Terror: Please hear us, please save us. This mortal body can only live for so long
-Eye of Ego: Pathetic, Open this machine, rip it off it's components and regain composture.
-Eye of Terror: Do not hear, we are at the disadvantage, we are lost. Pray for survival.
-Eye of Vision: you can see the shadow of the Individual, aproaching slowly.
+Judgement: A Choice has been taken.
+Echo: You let out a sound, a feeble moan that echoes through the small sphere.
+Solitude: Please hear us, please save us. This mortal body can only live for so long
+Vanity: Pathetic, Open this machine, rip it off it's components and regain composture.
+Solitude: Do not hear, we are at the disadvantage, we are lost. Pray for survival.
+Eagle: you can see the shadow of the Individual, aproaching slowly.
 
 
 ===
 title: Saynothing
 ---
-Eye of Choice: A Choice has been taken.
-Eye of Sound: Only the sounds of the machine opening fill the area you are in.
-Eye of Ego: Good, we do not fright in moments like this, let them aproach you. Let them know you are in control.
-Eye of Terror: Your arrogance will be our end. 
-Eye of Ego: Do not listen, soon, after we free ourselfs from this prision we will ascend.
-Eye of Vision: you can see the shadow of the Individual, aproaching slowly
+Judgement: A Choice has been taken.
+Echo: Only the sounds of the machine opening fill the area you are in.
+Vanity: Good, we do not fright in moments like this, let them aproach you. Let them know you are in control.
+Solitude: Your arrogance will be our end. 
+Vanity: Do not listen, soon, after we free ourselfs from this prision we will ascend.
+Eagle: you can see the shadow of the Individual, aproaching slowly
 ===
 
 title: OutofPod2
 ---
 Voice: Okay, You are okay. Good... Good...
 Kala: My name is Kala. Can you hear me okay? How are you feeling?
-Eye of Sound: The dreaded Individual shares a piece of her Identity with us.
-Eye of Vision: You see this... Kala, They are standing in front of you with a cluster of papers on their hands.
-Eye of Lust: You can not control yourself, you analyze their body from head to bottom
-Eye of Lust: Their face is beautiful, the way their hair is tied on the back of their head, makes you curious.
-Eye of Lust: Their figure is hidden due to a large coat covering their body.
-Eye of Lust: Yet you can still see their silhouette. Thin, Curved, Well shaped.
-Eye of Lust: Their body leaves a lot to the imagination.  
-Eye of Vision: There is a circular symbol on it. A logo, remember it. It may be important.
-Eye of Vision: Observing the room you find yourself on an old house full of electronic components.
-Eye of vision: Nothing is oganized and you can't tell what's natural and what are electronic components.
-Eye of vision: You can't even tell if it's day or night.
-Eye of Sound: The machine stops.
-Eye of Ego: The time for questions has come.
-Eye of Choice: Let's begin then.
-Eye of Choice: Vessel?
+Echo: The dreaded Individual shares a piece of her Identity with us.
+Eagle: You see this... Kala, They are standing in front of you with a cluster of papers on their hands.
+Lust: You can not control yourself, you analyze their body from head to bottom
+Lust: Their face is beautiful, the way their hair is tied on the back of their head, makes you curious.
+Lust: Their figure is hidden due to a large coat covering their body.
+Lust: Yet you can still see their silhouette. Thin, Curved, Well shaped.
+Lust: Their body leaves a lot to the imagination.  
+Eagle: There is a circular symbol on it. A logo, remember it. It may be important.
+Eagle: Observing the room you find yourself on an old house full of electronic components.
+Eagle: Nothing is oganized and you can't tell what's natural and what are electronic components.
+Eagle: You can't even tell if it's day or night.
+Echo: The machine stops.
+Vanity: The time for questions has come.
+Judgement: Let's begin then.
+Judgement: Vessel?
 
 ->Where am I?
         <<jump Whereami>>
@@ -133,27 +133,27 @@ Eye of Choice: Vessel?
 ===
 title: Whereami
 ---
-Eye of Choice: A Choice has been taken.
+Judgement: A Choice has been taken.
 Kala: You are in my house.
 Kala: I will answer all your questions in due time.
 Kala: Please try to take it slow. This can be very overwhelming sometimes.
 ===
 title: whoami
 ---
-Eye of Choice: A Choice has been taken.
+Judgement: A Choice has been taken.
 Kala: Well, hard question too answer honestly...
-Eye of Terror: Why can't she answer us? What is she hiding?
-Eye of Terror: Why the secrecy?
-Eye of Vision: You appear distressed
+Solitude: Why can't she answer us? What is she hiding?
+Solitude: Why the secrecy?
+Eagle: You appear distressed
 Kala: Please Don't be scared, I will help with all I can
 Kala: I will answer all your questions in due time.
 Kala: Please try to take it slow. This can be very overwhelming sometimes.
 ===
 title: whoareyou
 ---
-Eye of Choice: A Choice has been taken.
+Judgement: A Choice has been taken.
 Kala: I am Kala, I am your proxy. I Will explain what that means in due time.
-Eye of Ego: What does proxy mean? Demand an answer, now.
+Vanity: What does proxy mean? Demand an answer, now.
 Kala: Please Don't be scared, I will help with all I can
 Kala: I will answer all your questions in due time.
 Kala: Please try to take it slow. This can be very overwhelming sometimes.
@@ -161,11 +161,11 @@ Kala: Please try to take it slow. This can be very overwhelming sometimes.
 title: OutofPod3
 ---
 Kala: As i've said. I am Kala. 
-Eye of Vision: they grab a stack of papers which are resting on an old table nearby and puts them in front of them like they are reading a script.
+Eagle: they grab a stack of papers which are resting on an old table nearby and puts them in front of them like they are reading a script.
 Kala: I've been selected by the state to be your Proxy on your R.A.M process
 Kala: R.A.M Stands for "Rehabilitation of Altered Minds".
 Kala: The goverment has deemed Your past self as inoperable, thus rendering you inelegible for regular living and assigning you to the R.A.M program which your past self agreed to contribute to...
-Eye of Vision: they seem not too worried about following the "Script" You see their eyes speeding through the page.
+Eagle: they seem not too worried about following the "Script" You see their eyes speeding through the page.
 Kala: Well, Your past emotions were too extreme and you were "Unstable" so the goverment decided to make you... Rest for a while.
 Kala: This program is usually aimed at people who have had problems with psychosis, Extreme emotions, schizofrenia, Paranoia. Etc.
 Kala: To make sure you are okay during your resting and making sure your emotions calibrate correctly...
@@ -173,47 +173,47 @@ Kala: They put you on this pod, which served as a resting point for you while I 
 Kala: Most citizens have one, ergo most citizens are proxy's. 
 Kala: Can I ask how your emotions feel?
 Kala: In this documentation it says that the most common side effect is "Various mental monologues" which appear suddendly.
-Eye of Sound: They refer to us.
-Eye of Ego: Vessel, not a word.
-Eye of Ego: The proxy must not know our intentions.
+Echo: They refer to us.
+Vanity: Vessel, not a word.
+Vanity: The proxy must not know our intentions.
 Kala: Well it's just a side effect. 
-Eye of Vision: their hand extends to yours.
-Eye of Lust: You feel the electric feeling that their human touch brings to your arm.
-Eye of Lust: You want that feeling to persevere, you explore their hands. 
-Eye of Lust: Soft, clean and beautiful. You want more of them. You want all of them
-Eye of Lust: See Vessel? This is the human touch, we must strive for this feeling more often.
-Eye of Lust: Let them keep touching you, let them explore all you have in fact.
+Eagle: their hand extends to yours.
+Lust: You feel the electric feeling that their human touch brings to your arm.
+Lust: You want that feeling to persevere, you explore their hands. 
+Lust: Soft, clean and beautiful. You want more of them. You want all of them
+Lust: See Vessel? This is the human touch, we must strive for this feeling more often.
+Lust: Let them keep touching you, let them explore all you have in fact.
 Kala: I have to tell you something that may be a little extreme.
 Kala: The R.A.M program lasts for about 2-6 years.
 Kala: You have been in stasis for around 5.
-Eye of Terror: Five? Gods that can't be 
-Eye of Rage: This can't be. Fling at them now. Kill them if it means we will get the years back.
-Eye of Terror: Why can't we remember the years that went past us then? When we were still free of this "Program"?
-Eye of Ego: Everything is in control. We do not need our past Unstable self. Fix your posture, we do not need to be afraid. 
-Eye of Ego: We are reborn.
-Eye of Vision: They see you in distress. 
+Solitude: Five? Gods that can't be 
+Vanity: This can't be. Fling at them now. Kill them if it means we will get the years back.
+Solitude: Why can't we remember the years that went past us then? When we were still free of this "Program"?
+Vanity: Everything is in control. We do not need our past Unstable self. Fix your posture, we do not need to be afraid. 
+Vanity: We are reborn.
+Eagle: They see you in distress. 
 Kala: You will be okay... You were very young when they brought you here.
-Kala: You were 16... So 21 now.
+Kala: You were 20... So 25 now.
 Kala: Are the monologues on effect? You have been fairly quiet. 
 Kala: Well it is quite hard to proccess.
 Kala: I'm here for anything you need...
 Kala: The manuals suggest around 25 minutes before you can walk...
 Kala: Is it okay if I check your physique? Is it fine If I touch?
-Eye of Lust: You have no saying in this. YES. Agree. Now.
-Eye of Vision: You give a yes gesture with your head. 
+Lust: You have no saying in this. YES. Agree. Now.
+Eagle: You give a yes gesture with your head. 
 Kala: Okay...
-Eye of Vision: they get grab a paper from a table that's close to the pod.
+Eagle: they get grab a paper from a table that's close to the pod.
 Kala: uhhh... Terminal from the pod says everything is sound...
 Kala: Blood preasure is fine...
-Eye of Vision: Their hand brushes your jaw, slowly going down your throat to check pulse.
-Eye of Lust: This is the moment, they clearly want you.
-Eye of Ego: We do not move, show resilience.
+Eagle: Their hand brushes your jaw, slowly going down your throat to check pulse.
+Lust: This is the moment, they clearly want you.
+Vanity: We do not move, show resilience.
 Kala: Oh. Hearbeat is going up, sorry if i'm going too fast...
-Eye of Vision: Their hand goes back to their pen.
+Eagle: Their hand goes back to their pen.
 Kala: It is normal to feel very strong emotions to touch.
 Kala: Or any emotion for that matter.
 Kala: Let me check something.
-Eye of Vision: they grab a flashlight that was sitting under some documents and point it at your eye.
+Eagle: they grab a flashlight that was sitting under some documents and point it at your eye.
 Kala: I'm no expert, but i would say you are okay.
 Kala: Still, the program recomends a series of test to ensure your cognitive abilities are working to it's fullest.
 Kala: Promise, It won't be anything too tasking.
@@ -234,14 +234,59 @@ Kala: They should be fairly simple.
 Kala: Look at images, see what kind of responses they make to your Amygdala.
 Kala: They are usually just procedure and not meant to be a test of any kind.
 Kala: Just to make sure you are okay to go. 
-Eye of Ego: Did I hear test? You will pass this with colors. 
+Vanity: Did I hear test? You will pass this with colors. 
 <<jump OutofPod4>>
 ===
 
 title: OutofPod4
 ---
- Kala: Great let's get into this shall we?
- Eye of Vision: They grab a few papers  
+Kala: Great let's get into this shall we?
+Eagle: They grab a few papers
+Dejavu: All this talk of tests stir something from inside of you.
+Dejavu: You head starts pulsating, you feel dizzy and for a few seconds you are somewhere else.
+ ->You: What is happening to me?
+Dejavu: It seems echoes from another life have come back to hunt you.
+Eagle: A light flashes you, two people are standing in front of you. Middle age.
+Eagle: Both angry, they want something from you.
+Eagle: You are foribly restrained on a chair, and the space that surrounds you is closed off from the outside.
+Eagle: Metal surrounds you, only a table in front of you and the two subjects.
+ ->You: Let me go you fucks...
+ ->You: Where am I?
+ ->You: (Say nothing)
+Middle aged man 1: Good day to you...
+Middle aged man 2: ...
+Echo: The man to your right does not make a sound.
+Eagle: He looks at you with fury on his eyes.
+Vanity: They want something from you.
+Middle aged man 2: Listen, We are not playing any fucking games here.
+Middle aged man 2: We saw you at the riot, and we have several witnesses that confirmed that you orchestrated it.
+Middle aged man 2: Just because you are young doesn't mean we are gonna go easy on you.
+Middle aged man 1: Please do not make us use any... unnecessary violence...
+Eagle: The man to your left show's you a button, it's cables lead to the chair you are sitting on.
+Eagle: This is an electric chair... You are being tested...
+ ->You: (Say nothing)
+ ->You: Fuck you, you cretins...
+ ->You: You don't have the balls to do it, you pig.
+ ->You: What riot? What are you talking about?
+Middle aged man 2: Wrong choice.
+Eagle: The man, after a few a few moments of hesitation presses the button.
+Eagle: A high charge of electricity furiously transits your body. From head to toe. an agresive wave of needles claw to your back.
+Eagle: You become light headed again.
+Middle aged man 1: Please stay cognizant during the interrogation.
+Vanity: The nerve from this whale looking, idiotic fascist. Stand up straight. Show him that didn't nearly hit you.
+Middle aged man 2: Good. You seem less flimsy than you look.
+Middle aged man 2: Jesus. How did someone so young rally a group of people like this?
+Middle aged man 1: It seems the commonwealth of Stelora don't value a strong leader, Officer.
+Echo: Stelora. 
+Eagle: Visions of this city comes to you. A city full of culture and advancements. 
+Eagle: A city you spend every single moment since the day you were born.
+Vanity: Yet you can't remember a single thing about it's streets. 
+Vanity: What a great Stelorian you are. 
+Middle aged man 1: Officer, We are receving a call. 
+Middle aged man 1: We will come back to her later.
+Middle aged man 2: Alright. 
+
+
 ===
 
 

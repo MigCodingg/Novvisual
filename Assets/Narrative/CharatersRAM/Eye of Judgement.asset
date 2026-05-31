@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5f85b6694fa3dfc44b3b3a3c5de0dc8d, type: 3}
-  m_Name: Eye of Vision
+  m_Name: Eye of Judgement
   m_EditorClassIdentifier: Assembly-CSharp::CharacterData
-  characterName: Eye of Vision
+  characterName: Judgement
   portrait: {fileID: -112968808170193824, guid: 2a40ee88833cde24eb35b7a125b6123a, type: 3}
