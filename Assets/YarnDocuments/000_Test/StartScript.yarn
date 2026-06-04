@@ -1,6 +1,7 @@
 ﻿title: StartScript
 
 ---
+<<background city>>
 Thepromeus: I once knew somebody.
 Thepromeus: A girl, with a bright smile and determination that could bring the world down.
 Thepromeus: The girl, lost in her own mind, had big dreams for the future.
@@ -89,7 +90,7 @@ Solitude: Please hear us, please save us. This mortal body can only live for so 
 Vanity: Pathetic, Open this machine, rip it off it's components and regain composture.
 Solitude: Do not hear, we are at the disadvantage, we are lost. Pray for survival.
 Eagle: you can see the shadow of the Individual, aproaching slowly.
-
+<<jump OutofPod2>>
 
 ===
 title: Saynothing
@@ -100,6 +101,7 @@ Vanity: Good, we do not fright in moments like this, let them aproach you. Let t
 Solitude: Your arrogance will be our end. 
 Vanity: Do not listen, soon, after we free ourselfs from this prision we will ascend.
 Eagle: you can see the shadow of the Individual, aproaching slowly
+<<jump OutofPod2>>
 ===
 
 title: OutofPod2

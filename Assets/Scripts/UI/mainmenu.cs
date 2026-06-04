@@ -6,19 +6,7 @@ public class mainmenu : MonoBehaviour
 {
     public float delay = 0f; 
 
-    public void Playgame()
-    {
-        
-        StartCoroutine(LoadNextScene());
-    }
-
-    IEnumerator LoadNextScene()
-    {
-        yield return new WaitForSeconds(delay);
-
-        int currentIndex = SceneManager.GetActiveScene().buildIndex;
-        SceneManager.LoadScene(currentIndex + 1);
-    }
+  
 
     public void ExitGame()
     {
