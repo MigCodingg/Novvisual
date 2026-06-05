@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Thepromeus
   m_EditorClassIdentifier: Assembly-CSharp::CharacterData
   characterName: Thepromeus
-  portrait: {fileID: 21300000, guid: b75a96cd18a9f454bb0ddc731fbc8c6e, type: 3}
+  portrait: {fileID: 5662769545293761289, guid: aacbf573b9a6c2943bc2dd49eb78d0f8, type: 3}

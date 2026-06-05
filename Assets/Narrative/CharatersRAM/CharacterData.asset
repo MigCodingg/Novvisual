@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: CharacterData
   m_EditorClassIdentifier: Assembly-CSharp::CharacterData
   characterName: Kala
-  portrait: {fileID: -4015835390275598159, guid: edd91db29ad39fa49a305226bd76067c, type: 3}
+  portrait: {fileID: -2258755098361695858, guid: 4a3c12dee7979604095cd15d90ca5d75, type: 3}

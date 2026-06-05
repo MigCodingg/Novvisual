@@ -1,7 +1,8 @@
 ﻿title: StartScript
 
 ---
-<<background city>>
+<<music startambient>>
+<<background firstmemory>>
 Thepromeus: I once knew somebody.
 Thepromeus: A girl, with a bright smile and determination that could bring the world down.
 Thepromeus: The girl, lost in her own mind, had big dreams for the future.
@@ -18,6 +19,7 @@ Thepromeus: Perhaps then, that's why they got rid of her.
 Thepromeus: A shame, I liked the talkings off this little soul.
 Thepromeus: Maybe it's cause we didn't think that those who were born in the metal age had this passion for the world that once was.
         ->You: You are talking about me, right?
+<<sfx choice>>
 Thepromeus: Dreams, that word. too big for your own good.
 Thepromeus: Desires, Too unstable, too many variables for them.
 Thepromeus: That's why they decided to put you in a little caccon.
@@ -28,6 +30,9 @@ Thepromeus: Farewell young one.
 Thepromeus: Trust only your soul.
 Thepromeus: Godspeed.
 You: ...
+<<stop_music>>
+<<sfx eye>>
+<<music blues>>
 Eagle: It's cold here.
 Eagle: You can't feel anything.
 Echo: You can't hear anything.
@@ -67,6 +72,7 @@ Eyes: You
 title: OutofPod
 ---
 Voice: Hey, hello?
+<<sfx eye>>
 Echo: A loud mechanical sound emanates from your current position.
 Eagle: The light penetrates through. We appear to be seated on a white Spherical machine.
 Eagle: Air and gas releases from the machine.
@@ -84,6 +90,7 @@ Judgement: Yes, I refer to you...
 ===
 title: Speakup
 ---
+<<sfx choice>>
 Judgement: A Choice has been taken.
 Echo: You let out a sound, a feeble moan that echoes through the small sphere.
 Solitude: Please hear us, please save us. This mortal body can only live for so long
@@ -95,6 +102,7 @@ Eagle: you can see the shadow of the Individual, aproaching slowly.
 ===
 title: Saynothing
 ---
+<<sfx choice>>
 Judgement: A Choice has been taken.
 Echo: Only the sounds of the machine opening fill the area you are in.
 Vanity: Good, we do not fright in moments like this, let them aproach you. Let them know you are in control.
@@ -108,6 +116,7 @@ title: OutofPod2
 ---
 Voice: Okay, You are okay. Good... Good...
 Kala: My name is Kala. Can you hear me okay? How are you feeling?
+<<sfx eye>>
 Echo: The dreaded Individual shares a piece of her Identity with us.
 Eagle: You see this... Kala, They are standing in front of you with a cluster of papers on their hands.
 Lust: You can not control yourself, you analyze their body from head to bottom
@@ -135,13 +144,16 @@ Judgement: Vessel?
 ===
 title: Whereami
 ---
+<<sfx choice>>
 Judgement: A Choice has been taken.
 Kala: You are in my house.
 Kala: I will answer all your questions in due time.
 Kala: Please try to take it slow. This can be very overwhelming sometimes.
+<<jump OutofPod3>>
 ===
 title: whoami
 ---
+<<sfx choice>>
 Judgement: A Choice has been taken.
 Kala: Well, hard question too answer honestly...
 Solitude: Why can't she answer us? What is she hiding?
@@ -150,23 +162,28 @@ Eagle: You appear distressed
 Kala: Please Don't be scared, I will help with all I can
 Kala: I will answer all your questions in due time.
 Kala: Please try to take it slow. This can be very overwhelming sometimes.
+<<jump OutofPod3>>
 ===
 title: whoareyou
 ---
+<<sfx choice>>
 Judgement: A Choice has been taken.
 Kala: I am Kala, I am your proxy. I Will explain what that means in due time.
 Vanity: What does proxy mean? Demand an answer, now.
 Kala: Please Don't be scared, I will help with all I can
 Kala: I will answer all your questions in due time.
 Kala: Please try to take it slow. This can be very overwhelming sometimes.
+<<jump OutofPod3>>
 ===
 title: OutofPod3
 ---
 Kala: As i've said. I am Kala. 
+<<sfx eye>>
 Eagle: they grab a stack of papers which are resting on an old table nearby and puts them in front of them like they are reading a script.
 Kala: I've been selected by the state to be your Proxy on your R.A.M process
 Kala: R.A.M Stands for "Rehabilitation of Altered Minds".
 Kala: The goverment has deemed Your past self as inoperable, thus rendering you inelegible for regular living and assigning you to the R.A.M program which your past self agreed to contribute to...
+<<sfx eye>>
 Eagle: they seem not too worried about following the "Script" You see their eyes speeding through the page.
 Kala: Well, Your past emotions were too extreme and you were "Unstable" so the goverment decided to make you... Rest for a while.
 Kala: This program is usually aimed at people who have had problems with psychosis, Extreme emotions, schizofrenia, Paranoia. Etc.
@@ -175,10 +192,12 @@ Kala: They put you on this pod, which served as a resting point for you while I 
 Kala: Most citizens have one, ergo most citizens are proxy's. 
 Kala: Can I ask how your emotions feel?
 Kala: In this documentation it says that the most common side effect is "Various mental monologues" which appear suddendly.
+<<sfx eye>>
 Echo: They refer to us.
 Vanity: Vessel, not a word.
 Vanity: The proxy must not know our intentions.
 Kala: Well it's just a side effect. 
+<<sfx eye>>
 Eagle: their hand extends to yours.
 Lust: You feel the electric feeling that their human touch brings to your arm.
 Lust: You want that feeling to persevere, you explore their hands. 
@@ -188,6 +207,7 @@ Lust: Let them keep touching you, let them explore all you have in fact.
 Kala: I have to tell you something that may be a little extreme.
 Kala: The R.A.M program lasts for about 2-6 years.
 Kala: You have been in stasis for around 5.
+<<sfx eye>>
 Solitude: Five? Gods that can't be 
 Vanity: This can't be. Fling at them now. Kill them if it means we will get the years back.
 Solitude: Why can't we remember the years that went past us then? When we were still free of this "Program"?
@@ -201,6 +221,7 @@ Kala: Well it is quite hard to proccess.
 Kala: I'm here for anything you need...
 Kala: The manuals suggest around 25 minutes before you can walk...
 Kala: Is it okay if I check your physique? Is it fine If I touch?
+<<sfx eye>>
 Lust: You have no saying in this. YES. Agree. Now.
 Eagle: You give a yes gesture with your head. 
 Kala: Okay...
@@ -232,6 +253,7 @@ Kala: Promise, It won't be anything too tasking.
 
 title: whattests
 ---
+<<sfx choice>>
 Kala: They should be fairly simple.
 Kala: Look at images, see what kind of responses they make to your Amygdala.
 Kala: They are usually just procedure and not meant to be a test of any kind.
@@ -242,12 +264,16 @@ Vanity: Did I hear test? You will pass this with colors.
 
 title: OutofPod4
 ---
+<<sfx choice>>
 Kala: Great let's get into this shall we?
+<<stop_music>>
 Eagle: They grab a few papers
+<<sfx eye>>
+<<music tense>>
 Presque vu: All this talk of tests stir something from inside of you.
 Presque vu: You head starts pulsating, you feel dizzy and for a few seconds you are somewhere else.
  ->You: What is happening to me?
-Presque vu: It seems echoes from another life have come back to hunt you.
+Presque vu: It seems echoes from another life have come back to hunt you.>>
 Eagle: A light flashes you, two people are standing in front of you. Middle age.
 Eagle: Both angry, they want something from you.
 Eagle: You are foribly restrained on a chair, and the space that surrounds you is closed off from the outside.
@@ -257,6 +283,7 @@ Eagle: Metal surrounds you, only a table in front of you and the two subjects.
  ->You: (Say nothing)
 Middle aged man 1: Good day to you...
 Middle aged man 2: ...
+<<sfx eye>>
 Echo: The man to your right does not make a sound.
 Eagle: He looks at you with fury on his eyes.
 Vanity: They want something from you.
@@ -265,6 +292,7 @@ Middle aged man 2: We saw you at the riot, and we have several witnesses that co
 Middle aged man 2: Just because you are young doesn't mean we are gonna go easy on you.
 Middle aged man 1: Please do not make us use any... unnecessary violence...
 Middle Aged man 1: We have very precise orders for people who are part of L'atelier.
+<<sfx eye>>
 Eagle: The man to your left show's you a button, it's cables lead to the chair you are sitting on.
 Eagle: This is an electric chair... You are being tested...
  ->You: (Say nothing)
@@ -272,6 +300,7 @@ Eagle: This is an electric chair... You are being tested...
  ->You: You don't have the balls to do it, you pig.
  ->You: What riot? What are you talking about?
 Middle aged man 2: Wrong choice.
+<<sfx eye>>
 Eagle: The man, after a few a few moments of hesitation presses the button.
 Eagle: A high charge of electricity furiously transits your body. From head to toe. an agresive wave of needles claw to your back.
 Eagle: You become light headed again.
@@ -281,6 +310,7 @@ Middle aged man 2: Good. You seem less flimsy than you look.
 Middle aged man 2: Jesus. How did someone so young rally a group of people like this?
 Middle aged man 1: It seems the commonwealth of Stelora don't value a strong leader, Officer.
 Echo: Stelora. 
+<<sfx eye>>
 Eagle: Visions of this city comes to you. A city full of culture and advancements. 
 Eagle: A city you spend every single moment since the day you were born.
 Vanity: Yet you can't remember a single thing about it's streets. 
@@ -289,13 +319,16 @@ Middle aged man 1: Officer, We are receving a call.
 Middle aged man 1: We will come back to her later.
 Middle aged man 2: Alright. 
 Middle aged man 2: Just so you know, when we come back. You will tell everything you know.
+<<sfx eye>>
 Presque vu: The memory starts fading and you come back to reality.
+<<stop_music>>
 Eagle: Your vision comes back, at first blury, but little by little you start regaining eyesight, perception.
 Eagle: It's like if nothing has happened. Kala is just searching for a few papers. Trying to find the tests.
 
 
 ->You: Kala... I think I just saw a vision...?
 Kala: What? Are you okay?
+<<music questions>>
 Eagle: they look at you, take a look back a the papers. Quickly trying to find an explanation to this fenomenon.
 Kala: Uhh... I think i found it.
 Kala: "At the time of Pod release, the procedure pacient might experience some dream states, this are common and should dissapear after a few days..."
@@ -355,6 +388,7 @@ Eagle: they grab an extrange looking casette and a recorder, they insert it.
 Echo: A satisfying pop happens when they put it in.
 Echo: Music starts playing. A classical composition.
 Echo: Violins, chello's, trumpets and drums. A classic piece.
+<<sfx eye>>
 Presque vu: You seem to remember something about this. Let me help you out.
 Presque vu: Composition by Edward Anavalete. "Carnival de Suite, No.3 in D major."
 ->You: Composition by Edward Anavalete. "Carnival de Suite, No.3 in D major."
@@ -364,9 +398,11 @@ Presque vu: Renacted by famous Stelorian artist: Madorette la Salle.
 ->You: Renacted by famous Stelorian artist: Madorette la Salle.
 Kala: Okay...
 Kala: Uh wow.
+<<sfx eye>>
 Eagle: She writes down all what you just said like your own private royal clerk.
 Vanity: Impresive.
 Kala: Next.
+<<sfx eye>>
 Echo: There is that nice click again.
 Echo: The machine starts. But there is no sound.
 Echo: Only the sound of the city behind and the rattling of the recorder.
@@ -389,6 +425,7 @@ Vanity: We are prived of experiences...
 Kala: Well, you have done well. 
 Kala: You seem relaxed aswell. No more visions.
 Kala: You may want to take a step outside, See the world.
+<<sfx eye>>
 Eagle: Or what you can of it.
 Vanity: You stay up for the first time in years. Your body has trouble staying up but Kala helps you by stabilizing your body.
 Eagle: You are able to walk slowly for a few minutes, each step feels gigant.
@@ -396,10 +433,13 @@ Eagle: You are slowly aproaching the window.
 Solitude: A sense of dread comes over you. 
 Solitude: What is out there? What world have I been brought too again?
 Vanity: And how much of it can we really see...?
+<<stop_music>>
 <<jump outside>>
 ===
 title: outside
 ---
+<<background city>>
+<<music city>>
 Kala: Here it is.
 Kala: Stelora in all it's glory.
 Eagle: Your vision still has to adapt to the outside world.
@@ -429,6 +469,7 @@ Kala: I dunno... Keeps me grounded.
 Kala: Like, doesn't matter what I'm feeling or how bad things get...
 Kala: Things still move on, with our without me.
 Kala: Time is a clear, lineal stream downwards...
+<<sfx eye>>
 Presque vu: Your mind pulsates out of nowhere, Twitching and revolting on itself.
 Presque vu: Here comes again... Voices of "your" past come to haunt you.
 Eagle: The city twists on itself, reality and vision fuse into one. 
@@ -496,6 +537,7 @@ Kala: Also I put my number on that paper.
 Kala: While I don't want to be in your business, I also woudn't want to leave you on your own.
 Kala: If you see any phone cabins, call me.
 Kala: Here, let me show you outside.
+<<background firstmemory>>
 Eagle: they guide you to an elevator.
 Vanity: Now that you are on it, and alone. The overwhelming situation you have been through is really starting to eat you up.
 Solitude: We are alone, only one lead to our past.

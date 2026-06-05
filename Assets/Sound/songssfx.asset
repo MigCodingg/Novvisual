@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36aaf4772f4e24c4a9716509900c4799, type: 3}
+  m_Name: songssfx
+  m_EditorClassIdentifier: Assembly-CSharp::AudioDatabase
+  music:
+  - id: startambient
+    clip: {fileID: 8300000, guid: bdbbc42b2ae7bb14ebd21c28d8ac65b2, type: 3}
+  - id: startambient2
+    clip: {fileID: 8300000, guid: 325510f5136d81041a7a24f169ed9bdc, type: 3}
+  - id: blues
+    clip: {fileID: 8300000, guid: e5ba72469e415c04697e504a14c09a52, type: 3}
+  - id: tense
+    clip: {fileID: 8300000, guid: bc6197942afc86b42a614e0cbcf7e21b, type: 3}
+  - id: questions
+    clip: {fileID: 8300000, guid: d337e3af210a48541805676f77c2281c, type: 3}
+  - id: city
+    clip: {fileID: 8300000, guid: fd3ab7e944ce260489480aae0bc79f78, type: 3}
+  sfx:
+  - id: choice
+    clip: {fileID: 8300000, guid: 7f8efca720cac7649a7c7528d68f54c4, type: 3}
+  - id: eye
+    clip: {fileID: 8300000, guid: 959bf93283f3cc74694306d90d7d54ea, type: 3}
