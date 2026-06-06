@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Eye of Vanity
   m_EditorClassIdentifier: Assembly-CSharp::CharacterData
   characterName: Vanity
-  portrait: {fileID: -112968808170193824, guid: 2a40ee88833cde24eb35b7a125b6123a, type: 3}
+  portrait: {fileID: 6480938839638750260, guid: 90427d0a84ee5714b81ee423839cc7cf, type: 3}

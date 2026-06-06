@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5f85b6694fa3dfc44b3b3a3c5de0dc8d, type: 3}
   m_Name: Eyes
   m_EditorClassIdentifier: Assembly-CSharp::CharacterData
-  characterName: Eyes
-  portrait: {fileID: 21300000, guid: b75a96cd18a9f454bb0ddc731fbc8c6e, type: 3}
+  characterName: All
+  portrait: {fileID: 7160429211405778527, guid: 46f234d11abdc7c41b4f2d09aff1b5cf, type: 3}

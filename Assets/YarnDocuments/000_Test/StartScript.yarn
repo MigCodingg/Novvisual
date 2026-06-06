@@ -48,7 +48,7 @@ Eagle: Let's regain control.
 Solitude: Let's 
 Vanity: Let's
 Echo: Let's
-Vanity: Let's
+Presque-vu: Let's
 Eagle: Let's
 Lust: Let's
 Eagle: View
@@ -65,8 +65,8 @@ Vanity: life
 Solitude: Seclusion
 Vanity: Learning
 Lust: Copulation
-Eyes: Us
-Eyes: You
+All: Us
+All: You
 <<jump OutofPod>>
 ===
 title: OutofPod
@@ -74,6 +74,7 @@ title: OutofPod
 Voice: Hey, hello?
 <<sfx eye>>
 Echo: A loud mechanical sound emanates from your current position.
+<<background interior>>
 Eagle: The light penetrates through. We appear to be seated on a white Spherical machine.
 Eagle: Air and gas releases from the machine.
 Voice: Okay... here we go...
@@ -270,10 +271,11 @@ Kala: Great let's get into this shall we?
 Eagle: They grab a few papers
 <<sfx eye>>
 <<music tense>>
-Presque vu: All this talk of tests stir something from inside of you.
-Presque vu: You head starts pulsating, you feel dizzy and for a few seconds you are somewhere else.
+<<background firstmemory>>
+Presque-vu: All this talk of tests stir something from inside of you.
+Presque-vu: You head starts pulsating, you feel dizzy and for a few seconds you are somewhere else.
  ->You: What is happening to me?
-Presque vu: It seems echoes from another life have come back to hunt you.>>
+Presque-vu: It seems echoes from another life have come back to hunt you.
 Eagle: A light flashes you, two people are standing in front of you. Middle age.
 Eagle: Both angry, they want something from you.
 Eagle: You are foribly restrained on a chair, and the space that surrounds you is closed off from the outside.
@@ -281,6 +283,7 @@ Eagle: Metal surrounds you, only a table in front of you and the two subjects.
  ->You: Let me go you fucks...
  ->You: Where am I?
  ->You: (Say nothing)
+<<sfx choice>>
 Middle aged man 1: Good day to you...
 Middle aged man 2: ...
 <<sfx eye>>
@@ -291,7 +294,7 @@ Middle aged man 2: Listen, We are not playing any fucking games here.
 Middle aged man 2: We saw you at the riot, and we have several witnesses that confirmed that you orchestrated it.
 Middle aged man 2: Just because you are young doesn't mean we are gonna go easy on you.
 Middle aged man 1: Please do not make us use any... unnecessary violence...
-Middle Aged man 1: We have very precise orders for people who are part of L'atelier.
+Middle aged man 1: We have very precise orders for people who are part of L'atelier.
 <<sfx eye>>
 Eagle: The man to your left show's you a button, it's cables lead to the chair you are sitting on.
 Eagle: This is an electric chair... You are being tested...
@@ -320,8 +323,9 @@ Middle aged man 1: We will come back to her later.
 Middle aged man 2: Alright. 
 Middle aged man 2: Just so you know, when we come back. You will tell everything you know.
 <<sfx eye>>
-Presque vu: The memory starts fading and you come back to reality.
+Presque-vu: The memory starts fading and you come back to reality.
 <<stop_music>>
+<<background interior>>
 Eagle: Your vision comes back, at first blury, but little by little you start regaining eyesight, perception.
 Eagle: It's like if nothing has happened. Kala is just searching for a few papers. Trying to find the tests.
 
@@ -336,7 +340,7 @@ Eagle: they take a step back, leaning on the table near your pod.
 Kala: I do not want to confuse you too much, but I do not buy this explanation myself.
 Kala: Did they feel real?
 Kala: Did it feel like a deja-vu? 
-Presque vu: Yes it did. Matter of fact you haven't seen anything just yet...
+Presque-vu: Yes it did. Matter of fact you haven't seen anything just yet...
 Kala: What exactly did you experience...?
 Kala: Actually, nevermind. 
 Kala: Proxy Procedure confidentiality...
@@ -389,12 +393,12 @@ Echo: A satisfying pop happens when they put it in.
 Echo: Music starts playing. A classical composition.
 Echo: Violins, chello's, trumpets and drums. A classic piece.
 <<sfx eye>>
-Presque vu: You seem to remember something about this. Let me help you out.
-Presque vu: Composition by Edward Anavalete. "Carnival de Suite, No.3 in D major."
+Presque-vu: You seem to remember something about this. Let me help you out.
+Presque-vu: Composition by Edward Anavalete. "Carnival de Suite, No.3 in D major."
 ->You: Composition by Edward Anavalete. "Carnival de Suite, No.3 in D major."
-Presque vu: "BWV 1068: II.AIR" "on the G String"
+Presque-vu: "BWV 1068: II.AIR" "on the G String"
 ->You: "BWV 1068: II.AIR" "on the G String"
-Presque vu: Renacted by famous Stelorian artist: Madorette la Salle.
+Presque-vu: Renacted by famous Stelorian artist: Madorette la Salle.
 ->You: Renacted by famous Stelorian artist: Madorette la Salle.
 Kala: Okay...
 Kala: Uh wow.
@@ -470,14 +474,15 @@ Kala: Like, doesn't matter what I'm feeling or how bad things get...
 Kala: Things still move on, with our without me.
 Kala: Time is a clear, lineal stream downwards...
 <<sfx eye>>
-Presque vu: Your mind pulsates out of nowhere, Twitching and revolting on itself.
-Presque vu: Here comes again... Voices of "your" past come to haunt you.
+Presque-vu: Your mind pulsates out of nowhere, Twitching and revolting on itself.
+Presque-vu: Here comes again... Voices of "your" past come to haunt you.
+<<background outsidevision>>
 Eagle: The city twists on itself, reality and vision fuse into one. 
 Eagle: You are staring at a gigantic building off to the distance.
-Presque vu: A familiar old man stands with you to your left.
+Presque-vu: A familiar old man stands with you to your left.
 Thepromeus: Here, you don't want one?
 Eagle: The man hands you a cigarette.
-Presque vu: Your lips have a force of their own. Your old self is in control.
+Presque-vu: Your lips have a force of their own. Your old self is in control.
 ->You: Na, I will pass.
 Thepromeus: Good, good.
 Eagle: The man light's his cigarette, contemplating the large black architecture that stands far away.
@@ -485,17 +490,19 @@ Thepromeus: Riot is tomorrow.
 Thepromeus: You sure you want to come?
 ->You: I promised everyone I would be there.
 Thepromeus: Right, but no funny bussines, OP's already took two of us last week.
-Presque vu: OP, order patrol, Build to serve.
+Presque-vu: OP, order patrol, Build to serve.
 Thepromeus: Soon L'Atelier will be next.
-Presque vu: That fancy name again...
+Presque-vu: That fancy name again...
 Thepromeus: Besides... We all need you. Haine.
-Presque vu: Your Hearbeat raises as you hear that name.
+Presque-vu: Your Hearbeat raises as you hear that name.
 Echo: That name echoes all around your head.
 Echo: Haine,Haine,Haine, Haine...
-Presque vu: Definately your name. You are Haine. Haine.
+<<sfx choice>>
+<<show_image>>
+Presque-vu: Definately your name. You are Haine. Haine.
 Vanity: A shame, Vessel was starting to have a ring to it.
 Thepromeus: If Serah knew about this she would rip the few hair's that are on my scalp.
-Presque vu: That name, you don't know who she is but you know you have a great connection with her.
+Presque-vu: That name, you don't know who she is but you know you have a great connection with her.
 Eagle: The man takes a drag, and with it, the responsability of your well being.
 ->You: I will be fine, relax. Serah already knows.
 Thepromeus: Right...
@@ -505,8 +512,9 @@ Eagle: The man finishes his cigarette, toses it on the ground and steps on it.
 Thepromeus: Come here...
 Vanity: He reaches for a hug, the heat of his body is enough to make your heart calm down. 
 Vanity: For a few seconds, you are at peace. Even if you don't really know why.
-Presque vu: Your head clears. You are back to reality, now, with a new understanding of yourself.
+Presque-vu: Your head clears. You are back to reality, now, with a new understanding of yourself.
 Vanity: A name, an Identity.
+<<background city>>
 Eagle: You look around and find Kala in the back of the room,they come back to you again.
 Kala: You okay? Thought you might wanna take in the view.
 Kala: I had a project in the works for you while you were away.
@@ -532,7 +540,7 @@ Kala: So after they wake up they can re inster themself's into society.
 Kala: They only left you one note. 
 Kala: Find L'Atelier.
 Eagle: She hands you a note with the exact same contents she described.
-Presque vu: L'atelier. A constant name in your memories. Keep it in mind.
+Presque-vu: L'atelier. A constant name in your memories. Keep it in mind.
 Kala: Also I put my number on that paper.
 Kala: While I don't want to be in your business, I also woudn't want to leave you on your own.
 Kala: If you see any phone cabins, call me.
@@ -545,6 +553,7 @@ Vanity: Our past is not important, but what we do now.
 Vanity: Haine.
 Vanity: You are in control for now.
 All: Do as you need.
+<<hide_image>>
 ===
 
 

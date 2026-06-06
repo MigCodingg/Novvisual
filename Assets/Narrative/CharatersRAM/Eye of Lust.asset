@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Eye of Lust
   m_EditorClassIdentifier: Assembly-CSharp::CharacterData
   characterName: Lust
-  portrait: {fileID: -112968808170193824, guid: 2a40ee88833cde24eb35b7a125b6123a, type: 3}
+  portrait: {fileID: -1477300855850688976, guid: f30f37c5ee8fc504382269d009bff003, type: 3}

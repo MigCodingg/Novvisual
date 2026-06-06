@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Eye of Eagle
   m_EditorClassIdentifier: Assembly-CSharp::CharacterData
   characterName: Eagle
-  portrait: {fileID: -112968808170193824, guid: 2a40ee88833cde24eb35b7a125b6123a, type: 3}
+  portrait: {fileID: -6050447967526235745, guid: c62e3dd1f13ebd945bed1a89251fd655, type: 3}

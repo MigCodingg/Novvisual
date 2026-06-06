@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Eye of Echo
   m_EditorClassIdentifier: Assembly-CSharp::CharacterData
   characterName: Echo
-  portrait: {fileID: -112968808170193824, guid: 2a40ee88833cde24eb35b7a125b6123a, type: 3}
+  portrait: {fileID: -1407595435842125506, guid: 24ca30d2cc2a5974d95074090aaa033f, type: 3}

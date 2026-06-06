@@ -25,6 +25,8 @@ MonoBehaviour:
     clip: {fileID: 8300000, guid: d337e3af210a48541805676f77c2281c, type: 3}
   - id: city
     clip: {fileID: 8300000, guid: fd3ab7e944ce260489480aae0bc79f78, type: 3}
+  - id: city
+    clip: {fileID: 8300000, guid: fd3ab7e944ce260489480aae0bc79f78, type: 3}
   sfx:
   - id: choice
     clip: {fileID: 8300000, guid: 7f8efca720cac7649a7c7528d68f54c4, type: 3}

@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Eye of Terror
   m_EditorClassIdentifier: Assembly-CSharp::CharacterData
   characterName: Solitude
-  portrait: {fileID: -112968808170193824, guid: 2a40ee88833cde24eb35b7a125b6123a, type: 3}
+  portrait: {fileID: -8316706962991847900, guid: c5cab284aec2182498bc12b53dd6b803, type: 3}

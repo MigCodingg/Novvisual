@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: You
   m_EditorClassIdentifier: Assembly-CSharp::CharacterData
   characterName: You
-  portrait: {fileID: 21300000, guid: 3dcf87c456b675444b5bd216216d95c9, type: 3}
+  portrait: {fileID: 7160429211405778527, guid: 46f234d11abdc7c41b4f2d09aff1b5cf, type: 3}

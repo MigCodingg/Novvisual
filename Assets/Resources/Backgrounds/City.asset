@@ -19,3 +19,7 @@ MonoBehaviour:
     sprite: {fileID: 9048604711594759372, guid: 9c2b07a2acbf0d0488a6b1f22a72920a, type: 3}
   - id: test2
     sprite: {fileID: 773220933090969544, guid: 073854b834f4fd241ad9c3f9c7448788, type: 3}
+  - id: interior
+    sprite: {fileID: 7209114233940908054, guid: 4d7225e852c554849820b6dcaf966700, type: 3}
+  - id: outsidevision
+    sprite: {fileID: 10920052716224057, guid: bdda98a9776c33b43b9eebc1f5430d92, type: 3}
