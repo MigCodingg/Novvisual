@@ -1,4 +1,6 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
+using System.Collections;
 using Yarn.Unity;
 
 public class YarnBackgroundCommands : MonoBehaviour
@@ -27,10 +29,16 @@ public class YarnBackgroundCommands : MonoBehaviour
             PlaySFX
         );
 
-        // Stop music (no parameters)
+        // Stop music
         dialogueRunner.AddCommandHandler(
             "stop_music",
             StopMusic
+        );
+
+        // Change scene
+        dialogueRunner.AddCommandHandler<string>(
+            "scene",
+            ChangeScene
         );
     }
 
@@ -80,5 +88,17 @@ public class YarnBackgroundCommands : MonoBehaviour
     private void StopMusic()
     {
         AudioManager.Instance.StopMusic();
+    }
+
+    // ---------------- SCENE ----------------
+    private void ChangeScene(string sceneName)
+    {
+        StartCoroutine(ChangeSceneRoutine(sceneName));
+    }
+
+    private IEnumerator ChangeSceneRoutine(string sceneName)
+    {
+        yield return FadeManager.Instance.FadeOut();
+        SceneManager.LoadScene(sceneName);
     }
 }

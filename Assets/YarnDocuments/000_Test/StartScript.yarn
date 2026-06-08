@@ -553,6 +553,7 @@ Vanity: Our past is not important, but what we do now.
 Vanity: Haine.
 Vanity: You are in control for now.
 All: Do as you need.
+<<scene SampleScene>>
 <<hide_image>>
 ===
 
